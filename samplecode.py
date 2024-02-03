@@ -5,3 +5,4 @@ def print_multiplication_table(n):
 
 # Call the function to print the 9 table
 print_multiplication_table(9)
+print("Multiplication of 9 Is Sucessful.")
